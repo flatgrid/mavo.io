@@ -33,6 +33,8 @@
 			"path": "/docs/properties",
 			"link": "Properties"
 		},
+		{},
+		{},
 		{
 			"name": "mv-storage",
 			"on": "Mavo root, properties",
